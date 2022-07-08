@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.joke--main {
+  background-color: lightseagreen;
+  color: aliceblue;
+}
+
+.joke--form {
+  padding: 3rem;
+  background-color: cadetblue;
+  color: white;
+  display: flex;
+  flex-direction: column;
+}
+
+.joke--inner {
+  width: 100%;
+}
