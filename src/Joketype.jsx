@@ -6,7 +6,7 @@ export default function Joketype() {
 
   const url = "https://v2.jokeapi.dev/joke/" + type + "?type=single";
 
-  const [joke, setJoke] = useState("Joke will appear here ");
+  const [joke, setJoke] = useState("Joke will appear here! ");
 
   const handlesubmit = () => {};
 
